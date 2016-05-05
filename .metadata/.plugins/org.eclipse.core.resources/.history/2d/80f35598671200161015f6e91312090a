@@ -1,0 +1,6 @@
+package general;
+
+public class PairsEqual {
+	public static int to=10;
+	
+}
