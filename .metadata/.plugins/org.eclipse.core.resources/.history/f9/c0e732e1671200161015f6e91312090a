@@ -1,0 +1,10 @@
+package general;
+
+public class PairsEqual {
+	public static int equalTo=10;
+	
+	public static void main(String[] args)
+	{
+		
+	}
+}

@@ -1,0 +1,16 @@
+package general;
+
+import java.util.Set;
+
+public class PairsEqual {
+	public static int equalTo=10;
+	
+	public static void main(String[] args)
+	{
+		int[] arr={1,9,2,8,7,7,3,5,5};
+		for (int a: arr)
+		{
+			
+		}
+	}
+}
